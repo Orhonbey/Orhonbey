@@ -1,6 +1,6 @@
 # My Github Page
 ## Hello 👋 , My name is Sunal
-# I'm a Gamedeveloper 
+# I'm a Game developer 
 
 - How to contant me **sunal.orhon@gmail.com**
 - Linkedin Profile **https://www.linkedin.com/in/sunalorhon/**
