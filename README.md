@@ -2,7 +2,6 @@
 ## Hello 👋 , My name is Sunal
 # I'm a Game developer 
 
-- How to contant me **sunal.orhon@gmail.com**
 - Linkedin Profile **https://www.linkedin.com/in/sunalorhon/**
 - Github **https://github.com/Orhonbey**
 - Youtube **https://www.youtube.com/channel/UClRr-cWzKVcRzmsuwxKjqSw**
